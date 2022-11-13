@@ -1,2 +1,3 @@
 # Projeto-Dio-DynamoDB
-Projeto Dio sobre a utilização e comandos do DynamoDB com ajuda do Prof. Cassiano Peres
+Projeto Dio (Digital Innovation One), sobre a utilização dos comandos do DynamoDB com ajuda do Prof. Cassiano Peres,
+criamos uma tabela com Base no Album/Musicas da Bando Iron Maiden
